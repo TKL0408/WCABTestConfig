@@ -1,4 +1,4 @@
-# 衷心感谢 https://github.com/huami1314 能创造出这么牛逼的插件！
+# 衷心感谢[huami1314](https://github.com/huami1314)大佬能创造出这么牛逼的插件！
 
 # WCABTestConfig
 
