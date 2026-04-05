@@ -1,3 +1,5 @@
+# 衷心感谢 https://github.com/huami1314 能创造出这么牛逼的插件！
+
 # WCABTestConfig
 
 WeChat ABTest 灰度配置文件。
@@ -12,4 +14,6 @@ WeChat ABTest 灰度配置文件。
 
 ```
 https://github.com/huami1314/WCABTestConfig/releases/latest/download/ABTestConfig.json
+或
+https://github.com/TKL0408/WCABTestConfig/releases/latest/download/ABTestConfig.json
 ```
